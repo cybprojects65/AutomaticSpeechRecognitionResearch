@@ -1,3 +1,1 @@
-"# AutomaticSpeechRecognitionResearch" 
-"# AutomaticSpeechRecognitionResearch" 
-"# AutomaticSpeechRecognitionResearch" 
+"# AutomaticSpeechRecognitionResearch"
