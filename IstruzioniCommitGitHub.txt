@@ -1,0 +1,6 @@
+d:
+cd D:\EclipseWorkspaces\workspaceASR\AutomaticSpeechRecognitionResearch
+git add .
+git commit -m "DL models added"
+git remote add origin https://github.com/gianpaolocoro/AutomaticSpeechRecognitionResearch.git
+git push https://gianpaolocoro:Tlundds12@github.com/gianpaolocoro/AutomaticSpeechRecognitionResearch.git
